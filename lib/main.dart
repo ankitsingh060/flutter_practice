@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   setState(() {
 
                   });
-                }, child: Text("Current Time"))
+                }, child: Text("Current Time and date"))
               ],
             )
         ),
